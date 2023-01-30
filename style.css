@@ -1,0 +1,20 @@
+@import url(https://fonts.google.com/specimen/Montserrat);
+
+.attribution { font-size: 11px; text-align: center; }
+    .attribution a { color: hsl(228, 45%, 44%); }
+    .container{
+      border: solid 2px;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      width: 500px;
+      margin: 2rem;
+    }
+    .img_desktop{
+    height: 200px;
+    }
+    body{
+        width: 1440px;
+        font-family: Montserrat;
+    }
+   
