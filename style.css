@@ -1,20 +1,28 @@
-@import url(https://fonts.google.com/specimen/Montserrat);
-
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,500;1,300&display=swap');
+*,
+*:after,
+*:before{
+  box-sizing: border-box;
+}
+:root{
+  font-family: 'Montserrat';font-size: 14px;
+}
 .attribution { font-size: 11px; text-align: center; }
     .attribution a { color: hsl(228, 45%, 44%); }
     .container{
       border: solid 2px;
       display: flex;
-      justify-content: center;
       align-items: center;
       width: 500px;
       margin: 2rem;
+      margin-left: auto;
+      margin-right: auto;
     }
     .img_desktop{
     height: 200px;
     }
-    body{
-        width: 1440px;
-        font-family: Montserrat;
+    .item1{
+      position: absolute;
+      height: auto;
     }
    
