@@ -1,0 +1,18 @@
+*,
+*::before,
+*::after{
+    box-sizing: border-box;
+}
+/* variable pour les widhts */
+$mobileWidht:375px;
+$desktopWidht:1440px;
+
+/* variables pour les couleurs */
+$darkCyan:hsl(158, 36%, 37%);
+$cream:hsl(30, 38%, 92%);
+$veryDarkblue:hsl(212, 21%, 14%);
+$darkGrayishblue:hsl(228, 12%, 48%);
+$white:hsl(0, 0%, 100%);
+
+/* variables for the font-size */
+$fontWord:14px;
