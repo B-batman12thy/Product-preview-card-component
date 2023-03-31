@@ -135,8 +135,8 @@ body{
   }
   /* pour le mobile design */
   @media (max-widht:400px){
-    .card{
-      grid-template-columns: none;
+    containner{
+      display: grid;
     }
    
   }
