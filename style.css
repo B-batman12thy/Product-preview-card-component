@@ -60,17 +60,27 @@ p, h1, h2, h3, h4, h5, h6 {
 body{
   background-color:var(--clr-beige);
   display: grid;
+  align-items: center;
+  margin: 1rem;
   place-content: center;
+ 
  }
 .attribution { font-size: 11px; text-align: center; }
     .attribution a { color: var(--primarycolor); }
-
-    .container{
-    width: 640px; /* Can be in percentage also. */
-   
-    }
+  
     .card{
+      padding: 2rem;
       display: flex;
+      max-width: 687px;
+     
+      
+    } 
+    @media (min-widht:40rem){
+      .card{
+       flex-direction: column;
+        
+      }
+      
     } 
     .item1{
       width: 50%; 
@@ -134,9 +144,4 @@ body{
     font-weight: 700;
   }
   /* pour le mobile design */
-  @media (max-widht:400px){
-    containner{
-      display: grid;
-    }
-   
-  }
+ 
