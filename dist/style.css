@@ -1,0 +1,9 @@
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+}
+
+/* variable pour les widhts */
+/* variables pour les couleurs */
+/* variables for the font-size */
