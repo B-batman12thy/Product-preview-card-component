@@ -7,6 +7,7 @@ This is a solution to the [Product preview card component challenge on Frontend 
 ## Table of contents
 
 - [Overview](#overview)
+  - [The challenge](#the-challenge)
   - [Screenshot](#screenshot)
   - [Links](#links)
 - [My process](#my-process)
@@ -22,7 +23,7 @@ This is a solution to the [Product preview card component challenge on Frontend 
 ![](/images/screenshot_image%20_card.png)
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/B-batman12thy/Product-preview-card-component)
+- Solution URL: [Add solution URL here](https://b-batman12thy.github.io/Product-preview-card-component/)
 - Live Site URL: [Add live site URL here](https://your-live-site-url.com)
 
 ## My process
@@ -35,6 +36,27 @@ This is a solution to the [Product preview card component challenge on Frontend 
 - CSS Grid
 - Mobile-first workflow
 - Media queries for the responsive
+
+### What I learned
+
+i learn a lot in this first challenge about the responsive card
+first of all grid layout
+```
+body{
+  display:grid;
+}
+```
+And i learn how to reset all your css code with josh comeau(https://www.joshwcomeau.com/css/custom-css-reset/)
+```
+```
+
+the variable in css 
+```
+
+ ``` 
+
+ ### Continued development
+ 
 ## Where to find everything
 
 Your task is to build out the project to the designs inside the `/design` folder. You will find both a mobile and a desktop version of the design. 
