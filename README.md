@@ -7,7 +7,6 @@ This is a solution to the [Product preview card component challenge on Frontend 
 ## Table of contents
 
 - [Overview](#overview)
-  - [The challenge](#the-challenge)
   - [Screenshot](#screenshot)
   - [Links](#links)
 - [My process](#my-process)
@@ -23,7 +22,7 @@ This is a solution to the [Product preview card component challenge on Frontend 
 ![](/images/screenshot_image%20_card.png)
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: [Add solution URL here](https://github.com/B-batman12thy/Product-preview-card-component)
 - Live Site URL: [Add live site URL here](https://your-live-site-url.com)
 
 ## My process
