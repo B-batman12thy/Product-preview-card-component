@@ -23,7 +23,7 @@ This is a solution to the [Product preview card component challenge on Frontend 
 ![](/images/screenshot_image%20_card.png)
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: [Add solution URL here](https://b-batman12thy.github.io/Product-preview-card-component/)
 - Live Site URL: [Add live site URL here](https://your-live-site-url.com)
 
 ## My process
@@ -51,7 +51,12 @@ And i learn how to reset all your css code with josh comeau(https://www.joshwcom
 ```
 
 the variable in css 
-``` ``` 
+```
+
+ ``` 
+
+ ### Continued development
+ 
 ## Where to find everything
 
 Your task is to build out the project to the designs inside the `/design` folder. You will find both a mobile and a desktop version of the design. 
