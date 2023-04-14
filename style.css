@@ -133,6 +133,11 @@ body{
   .paragraph{
     color:hsl(228, 12%, 48%);
     font-weight: 700;
+    
+  }
+  .lil-price{
+    text-decoration: line-through;
+    text-decoration-color: hsl(228, 12%, 48%);
   }
   /* pour le mobile design */
   @media screen and (max-width: 600px) {
